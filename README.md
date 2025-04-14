@@ -1,3 +1,4 @@
+
 # RNA-seq Analysis Pipeline (UNMC)
 
 A modular, scalable RNA-seq pipeline for quantifying and analyzing gene expression data. Built using **Nextflow**, **Salmon**, and **DESeq2**, with reproducibility and clarity in mind.
@@ -40,8 +41,12 @@ A modular, scalable RNA-seq pipeline for quantifying and analyzing gene expressi
 
 ```bash
 # clone the repo
-git clone https://github.com/YOUR_USERNAME/rna_seq_pipeline.git
+git clone https://github.com/Cslaer2025/rna_seq_pipeline.git
 cd rna_seq_pipeline
 
 # run pipeline (demo mode)
 nextflow run workflow/main.nf -profile conda
+
+# rna_seq_pipeline
+Modular RNA-seq pipeline using Nextflow, Salmon, and DESeq2
+>>>>>>> f6ec3f3659f13f73b855f193dcad2c5ce5b0522a
