@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite it as below."
+title: "RNA-Seq Analysis Pipeline using Nextflow, Salmon, and DESeq2"
+authors:
+  - family-names: Sarmiento
+    given-names: Cleofes
+    orcid: https://orcid.org/0000-0002-1234-5678
+    affiliation: University of Nebraska Medical Center
+date-released: 2025-04-14
+version: 1.0.0
+doi: 10.0000/zenodo.1234567
+repository-code: https://github.com/Cslaer2025/rna_seq_pipeline
+license: MIT
