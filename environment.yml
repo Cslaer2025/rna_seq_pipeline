@@ -1,0 +1,14 @@
+name: rna_seq_pipeline
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - nextflow
+  - salmon
+  - r-base
+  - bioconductor-deseq2
+  - bioconductor-tximport
+  - r-readr
+  - r-tibble
+  - r-optparse
