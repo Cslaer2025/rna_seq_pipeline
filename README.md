@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![Nextflow DSL2](https://img.shields.io/badge/nextflow-dsl2-43B02A)
+![Built with Conda](https://img.shields.io/badge/env-conda-3E7EBB)
+![Made by Cleofes](https://img.shields.io/badge/made%20by-Cleofes%20Sarmiento-ff69b4)
 
 # RNA-seq Analysis Pipeline (UNMC)
 
