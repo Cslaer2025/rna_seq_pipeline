@@ -3,7 +3,7 @@
 ![Built with Conda](https://img.shields.io/badge/env-conda-3E7EBB)
 ![Made by Cleofes](https://img.shields.io/badge/made%20by-Cleofes%20Sarmiento-ff69b4)
 
-# RNA-seq Analysis Pipeline (UNMC)
+# RNA-seq Analysis Pipeline
 
 A modular, scalable RNA-seq pipeline for quantifying and analyzing gene expression data. Built using **Nextflow**, **Salmon**, and **DESeq2**, with reproducibility and clarity in mind.
 
